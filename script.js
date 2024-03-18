@@ -13,7 +13,7 @@ function input() {
       );
       var input = parseInt(num);
       RachelMagic[i][j] = input;
-    }
+    } 
   }
 
   /* Display the input numbers in the 9 table cells*/
