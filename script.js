@@ -53,7 +53,7 @@ function checkForMagic() {
     row1 === row2 &&
     row2 === row3 &&
     row3 === col1 &&
-    col1 === col2 &&
+    col1 === col2 && 
     col2 === col3
   ) {
     magicSum = true;
